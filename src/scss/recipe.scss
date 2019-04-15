@@ -1,0 +1,658 @@
+.page-title-default {
+   
+  }
+  .topbar-wrapp {
+    background-color: #83b735;
+  }
+  .menu-opener {
+    background-color: #83b735;
+  }
+  .footer-container {
+    background-color: #ffffff;
+  }
+  .font-alt {
+    font-weight: 400;
+  }
+  .widgettitle,
+  .widgettitle a,
+  .widget-title,
+  .widget-title a {
+    font-weight: 600;
+  }
+  .main-nav-style,
+  .menu-opener,
+  .categories-menu-dropdown .item-level-0 > a,
+  .woodmart-burger-icon .woodmart-burger-label,
+  .main-nav .item-level-0 > a,
+  .whb-secondary-menu .item-level-0 > a,
+  .topbar-menu .item-level-0 > a,
+  .full-screen-nav .item-level-0 > a,
+  .woodmart-wishlist-info-widget .wishlist-label,
+  .woodmart-wishlist-info-widget .wishlist-count,
+  .woodmart-shopping-cart .woodmart-cart-totals,
+  .woodmart-header-links .item-level-0 > a {
+    font-weight: 700;
+    font-size: 16px;
+  }
+  a:hover,
+  a:focus,
+  blockquote footer:before,
+  blockquote cite,
+  blockquote cite a,
+  .color-scheme-dark a:hover,
+  .color-scheme-dark a:focus,
+  .color-primary,
+  .woodmart-dark .color-primary,
+  .btn-style-bordered.btn-color-primary,
+  .mega-menu-list > li > a:hover,
+  .mega-menu-list > li > a:focus,
+  .mega-menu-list .sub-sub-menu li a:hover,
+  .mega-menu-list .sub-sub-menu li a:focus,
+  .menu-style-default
+    .navigation-wrap.navigation-color-scheme-dark
+    .main-nav
+    .item-level-0:hover
+    > a,
+  .menu-style-default
+    .navigation-wrap.navigation-color-scheme-dark
+    .main-nav
+    .item-level-0:focus
+    > a,
+  .menu-style-default
+    .navigation-wrap.navigation-color-scheme-dark
+    .main-nav
+    .item-level-0.current-menu-item
+    > a,
+  .site-mobile-menu li.current_page_item > a,
+  .site-mobile-menu .sub-menu li.current_page_item > a,
+  .woodmart-dark .site-mobile-menu li.current_page_item > a,
+  .dropdowns-color-light .site-mobile-menu li.current_page_item > a,
+  .woodmart-dark .site-mobile-menu .sub-menu li.current_page_item > a,
+  .dropdowns-color-light .site-mobile-menu .sub-menu li.current_page_item > a,
+  .woodmart-title-color-primary .title-subtitle,
+  .subtitle-color-primary.subtitle-style-default,
+  .instagram-widget .clear a:hover,
+  .woodmart-info-box .with-text,
+  .woodmart-info-box .subtitle-color-primary,
+  .woodmart-price-table.price-style-alt .woodmart-price-currency,
+  .woodmart-price-table.price-style-alt .woodmart-price-value,
+  .woodmart-menu-price.cursor-pointer:hover .menu-price-title,
+  .woodmart-menu-price.cursor-pointer:focus .menu-price-title,
+  .read-more-section a,
+  .read-more-section a:hover,
+  .comments-area .reply a,
+  .comments-area .reply a:hover,
+  .error404 .page-title,
+  .not-found .entry-header:before,
+  .wishlist_table tr td.product-stock-status span.wishlist-in-stock:before,
+  .product-image-summary .in-stock:before,
+  .variations_form .in-stock:before,
+  .woodmart-cart-design-3 .woodmart-cart-subtotal .amount,
+  .menu-item-register .create-account-link,
+  .menu-item-register .create-account-link:hover,
+  .menu-item-register .create-account-link:focus,
+  .woocommerce-order-pay td.product-total .amount,
+  .woodmart-buttons > div a:focus,
+  .woodmart-buttons > div a:hover,
+  .woodmart-buttons .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a,
+  .woodmart-hover-base .product-compare-button a:hover,
+  .woodmart-hover-base .product-compare-button a:focus,
+  .woodmart-sticky-btn .woodmart-sticky-btn-wishlist.exists,
+  .amount,
+  .price,
+  .price ins,
+  .compare-btn-wrapper a:hover,
+  .summary-inner > .yith-wcwl-add-to-wishlist a:hover,
+  .sizeguide-btn-wrapp a:hover,
+  .woodmart-dark .compare-btn-wrapper a:hover,
+  .woodmart-dark .summary-inner > .yith-wcwl-add-to-wishlist a:hover,
+  .woodmart-dark .sizeguide-btn-wrapp a:hover,
+  .compare-btn-wrapper a.added:before,
+  .summary-inner
+    > .yith-wcwl-add-to-wishlist
+    .yith-wcwl-wishlistaddedbrowse
+    a:before,
+  .summary-inner
+    > .yith-wcwl-add-to-wishlist
+    .yith-wcwl-wishlistexistsbrowse
+    a:before,
+  .woodmart-accordion-title:hover,
+  .woodmart-accordion-title.active,
+  .woodmart-dark .woodmart-accordion-title:hover,
+  .woodmart-dark .woodmart-accordion-title.active,
+  .woocommerce-form-coupon-toggle > .woocommerce-info .showcoupon,
+  .woocommerce-form-coupon-toggle > .woocommerce-info .showlogin,
+  .woocommerce-form-login-toggle > .woocommerce-info .showcoupon,
+  .woocommerce-form-login-toggle > .woocommerce-info .showlogin,
+  body.woocommerce-checkout .woocommerce > .woocommerce-info .showcoupon,
+  body.woocommerce-checkout .woocommerce > .woocommerce-info .showlogin,
+  .cart-totals-inner .shipping-calculator-button,
+  .woodmart-dark .cart-totals-inner .shipping-calculator-button,
+  .login-form-footer .lost_password,
+  .login-form-footer .lost_password:hover,
+  .login-form-footer .lost_password:focus,
+  .woodmart-my-account-links a:hover:before,
+  .woodmart-my-account-links a:focus:before,
+  .woodmart-products-tabs.tabs-design-simple
+    .products-tabs-title
+    li.active-tab-title,
+  .menu-style-default .main-nav .item-level-0:hover > a,
+  .menu-style-default .woodmart-header-links .item-level-0:hover > a,
+  .whb-color-dark .navigation-style-default .item-level-0:hover > a,
+  .menu-style-default .main-nav .item-level-0:focus > a,
+  .menu-style-default .woodmart-header-links .item-level-0:focus > a,
+  .whb-color-dark .navigation-style-default .item-level-0:focus > a,
+  .menu-style-default .main-nav .item-level-0.current-menu-item > a,
+  .menu-style-default .woodmart-header-links .item-level-0.current-menu-item > a,
+  .whb-color-dark .navigation-style-default .item-level-0.current-menu-item > a,
+  .whb-enabled .vertical-navigation .menu-mega-dropdown .sub-menu > li > a:hover,
+  .menu-style-default
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-menu
+    > li
+    > a:hover,
+  .navigation-style-default
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-menu
+    > li
+    > a:hover,
+  .navigation-style-separated
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-menu
+    > li
+    > a:hover,
+  .navigation-style-bordered
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-menu
+    > li
+    > a:hover,
+  .whb-enabled .vertical-navigation .menu-mega-dropdown .sub-menu > li > a:focus,
+  .menu-style-default
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-menu
+    > li
+    > a:focus,
+  .navigation-style-default
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-menu
+    > li
+    > a:focus,
+  .navigation-style-separated
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-menu
+    > li
+    > a:focus,
+  .navigation-style-bordered
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-menu
+    > li
+    > a:focus,
+  .whb-enabled .vertical-navigation .menu-mega-dropdown .sub-sub-menu li a:hover,
+  .menu-style-default
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-sub-menu
+    li
+    a:hover,
+  .navigation-style-default
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-sub-menu
+    li
+    a:hover,
+  .navigation-style-separated
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-sub-menu
+    li
+    a:hover,
+  .navigation-style-bordered
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-sub-menu
+    li
+    a:hover,
+  .whb-enabled .vertical-navigation .menu-mega-dropdown .sub-sub-menu li a:focus,
+  .menu-style-default
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-sub-menu
+    li
+    a:focus,
+  .navigation-style-default
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-sub-menu
+    li
+    a:focus,
+  .navigation-style-separated
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-sub-menu
+    li
+    a:focus,
+  .navigation-style-bordered
+    .menu-mega-dropdown
+    .color-scheme-dark
+    .sub-sub-menu
+    li
+    a:focus,
+  .navigation-wrap.navigation-color-scheme-dark .menu-text-widget > a:hover,
+  .navigation-wrap.navigation-color-scheme-dark .menu-text-widget > ul li a:hover,
+  .navigation-wrap.navigation-color-scheme-dark .menu-text-widget > ul li a:focus,
+  .navigation-wrap.navigation-color-scheme-dark .menu-text-widget > ol li a:hover,
+  .navigation-wrap.navigation-color-scheme-dark .menu-text-widget > ol li a:focus,
+  .xtemos-category-list .tab-preview-count {
+    color: #83b735;
+  }
+  .btn.btn-color-primary,
+  .button.btn-color-primary,
+  button.btn-color-primary,
+  .added_to_cart.btn-color-primary,
+  [type="submit"].btn-color-primary,
+  [type="button"].btn-color-primary,
+  .btn-style-bordered.btn-color-primary:hover,
+  .btn-style-bordered.btn-color-primary:focus,
+  .menu-label-primary,
+  .main-nav .item-level-0.callto-btn > a,
+  .menu-style-bordered
+    .navigation-wrap.navigation-color-scheme-dark
+    .main-nav
+    .item-level-0
+    > a
+    > span:not(.menu-label):after,
+  .mobile-nav-tabs .mobile-tab-title:after,
+  .icon-sub-menu.up-icon,
+  .quantity input[type="button"]:hover,
+  .comment-form .submit,
+  .mc4wp-form input[type="submit"],
+  .widget_tag_cloud .tagcloud a:hover,
+  .widget_tag_cloud .tagcloud a:focus,
+  .widget_product_tag_cloud .tagcloud a:hover,
+  .widget_product_tag_cloud .tagcloud a:focus,
+  .widget_calendar #wp-calendar #today,
+  .woodmart-title-color-primary .title-subtitle.style-background,
+  .woodmart-title-style-simple.woodmart-title-color-primary .liner-continer:after,
+  .woodmart-social-icons.icons-design-simple .woodmart-social-icon a:hover,
+  .subtitle-color-primary.subtitle-style-background,
+  .woodmart-info-box .subtitle-color-primary.subtitle-style-background,
+  .timer-style-active .woodmart-timer > span,
+  .woodmart-price-table .woodmart-plan-footer > a,
+  .woodmart-price-table.price-style-default .woodmart-plan-price,
+  .woodmart-dark .woodmart-entry-meta .meta-reply .comments-count,
+  .color-scheme-light .woodmart-entry-meta .meta-reply .comments-count,
+  .blog-design-mask .woodmart-entry-meta .meta-reply .comments-count,
+  .meta-post-categories,
+  .woodmart-single-footer .tags-list a:hover:after,
+  .woodmart-single-footer .tags-list a:focus:after,
+  .woodmart-pagination > span:not(.page-links-title),
+  .page-links > span:not(.page-links-title),
+  .slider-title:before,
+  div.open-table-widget .otw-button-wrap .otw-submit,
+  div.open-table-widget .otw-button-wrap .otw-submit-btn,
+  .widget_product_categories .product-categories li a:hover + .count,
+  .widget_product_categories .product-categories li a:focus + .count,
+  .widget_product_categories .product-categories li.current-cat > .count,
+  .woodmart-woocommerce-layered-nav .layered-nav-link:hover + .count,
+  .woodmart-woocommerce-layered-nav .layered-nav-link:focus + .count,
+  .woodmart-woocommerce-layered-nav .chosen .count,
+  .woodmart-wishlist-info-widget .wishlist-count,
+  .woodmart-cart-design-2 .woodmart-cart-number,
+  .woodmart-cart-design-5 .woodmart-cart-number,
+  .woodmart-cart-design-4 .woodmart-cart-number,
+  td.woocommerce-orders-table__cell-order-actions a,
+  .account-payment-methods-table .button,
+  .woocommerce table.wishlist_table td.product-add-to-cart a,
+  .product-label.onsale,
+  .woodmart-hover-alt .btn-add-swap > a span:not(.woodmart-tooltip-label):before,
+  .woodmart-hover-base:not(.product-in-carousel):not(.hover-width-small):not(.add-small-button)
+    .woodmart-add-btn
+    > a,
+  .woodmart-hover-quick .woodmart-add-btn > a,
+  .product-list-item .woodmart-add-btn > a,
+  .woodmart-hover-standard .btn-add > a,
+  .cat-design-replace-title .category-title,
+  .popup-quick-view .woodmart-scroll-content > a,
+  .popup-quick-view .view-details-btn,
+  .widget_shopping_cart .buttons .checkout,
+  .widget_price_filter .ui-slider .ui-slider-range,
+  .widget_price_filter .ui-slider .ui-slider-handle:after,
+  .widget_layered_nav ul .chosen a:before,
+  .woocommerce input[name="save_account_details"],
+  .woocommerce input[name="save_address"],
+  .woocommerce input[name="track"],
+  .woocommerce-pagination .page-numbers .current,
+  .woocommerce-store-notice,
+  .single_add_to_cart_button,
+  .tabs-layout-tabs .tabs li a:after,
+  .checkout_coupon .button,
+  #place_order,
+  .return-to-shop .button,
+  .cart-totals-inner .checkout-button,
+  .cart-actions .button[name="apply_coupon"],
+  .register .button,
+  .login .button,
+  .lost_reset_password .button,
+  .woocommerce-MyAccount-content > p:not(.woocommerce-Message):first-child mark,
+  .woocommerce-MyAccount-content > .button,
+  .order-info mark,
+  .order-again .button,
+  .woocommerce-Button--next,
+  .woocommerce-Button--previous,
+  .woocommerce-MyAccount-downloads-file,
+  #yith-wpv-abuse,
+  .dokan-dashboard a.dokan-btn,
+  .dokan-dashboard button.dokan-btn,
+  .dokan-dashboard input[type="submit"].dokan-btn,
+  .dokan-dashboard a.dokan-btn:hover,
+  .dokan-dashboard a.dokan-btn:focus,
+  .dokan-dashboard button.dokan-btn:hover,
+  .dokan-dashboard button.dokan-btn:focus,
+  .dokan-dashboard input[type="submit"].dokan-btn:hover,
+  .dokan-dashboard input[type="submit"].dokan-btn:focus,
+  .dokan-dashboard-wrap .dokan-dash-sidebar ul.dokan-dashboard-menu li.active,
+  .dokan-dashboard-wrap
+    .dokan-dash-sidebar
+    ul.dokan-dashboard-menu
+    li.dokan-common-links
+    a:hover,
+  .dokan-dashboard-wrap .dokan-dash-sidebar ul.dokan-dashboard-menu li:hover,
+  #dokan-seller-listing-wrap .dokan-btn,
+  div.wcmp_regi_main .button,
+  .yith-ywraq-add-to-quote
+    .yith-ywraq-add-button
+    .button.add-request-quote-button,
+  .select2-container--default .select2-results__option[aria-selected="true"],
+  .menu-style-bordered .main-nav .item-level-0 > a > span:not(.menu-label):after,
+  .menu-style-bordered
+    .woodmart-header-links
+    .item-level-0
+    > a
+    > span:not(.menu-label):after,
+  .whb-color-dark
+    .navigation-style-underline
+    .item-level-0
+    > a
+    > span:not(.menu-label):after,
+  .menu-style-bordered
+    .full-screen-nav
+    .item-level-0
+    > a
+    > span:not(.menu-label):after,
+  .menu-style-bordered
+    .sub-menu-dropdown
+    .sub-menu
+    li
+    a
+    > span:not(.menu-label):after,
+  .menu-style-bordered
+    .sub-menu-dropdown
+    .sub-sub-menu
+    li
+    a
+    > span:not(.menu-label):after,
+  .navigation-style-underline .item-level-0 > a > span:not(.menu-label):after,
+  .navigation-style-underline
+    .sub-menu-dropdown
+    .sub-menu
+    li
+    a
+    > span:not(.menu-label):after,
+  .navigation-style-underline
+    .sub-menu-dropdown
+    .sub-sub-menu
+    li
+    a
+    > span:not(.menu-label):after,
+  .masonry-filter li a:after,
+  .wpb-js-composer
+    .vc_tta.vc_general.vc_tta-style-classic.vc_tta-tabs
+    .vc_tta-tab
+    .vc_tta-title-text:after,
+  .category-nav-link .category-name:after,
+  .woodmart-checkout-steps ul li span:after,
+  .woodmart-products-tabs.tabs-design-default
+    .products-tabs-title
+    .tab-label:after,
+  .woodmart-products-tabs.tabs-design-alt .products-tabs-title .tab-label:after,
+  .xtemos-category-list .tab-preview-name:after {
+    background-color: #83b735;
+  }
+  blockquote,
+  .border-color-primary,
+  .btn-style-bordered.btn-color-primary,
+  .btn-style-bordered.btn-color-primary:hover,
+  .btn-style-bordered.btn-color-primary:focus,
+  .btn-style-link.btn-color-primary,
+  .btn-style-link.btn-color-primary:hover,
+  .btn-style-link.btn-color-primary:focus,
+  .menu-label-primary:before,
+  .quantity input[type="button"]:hover,
+  .widget_tag_cloud .tagcloud a:hover,
+  .widget_tag_cloud .tagcloud a:focus,
+  .widget_product_tag_cloud .tagcloud a:hover,
+  .widget_product_tag_cloud .tagcloud a:focus,
+  .woodmart-title-style-underlined.woodmart-title-color-primary .title,
+  .woodmart-title-style-underlined-2.woodmart-title-color-primary .title,
+  .woodmart-price-table.price-highlighted .woodmart-plan-inner,
+  .woodmart-single-footer .tags-list a:hover,
+  .woodmart-single-footer .tags-list a:focus,
+  .widget_product_categories .product-categories li a:hover + .count,
+  .widget_product_categories .product-categories li a:focus + .count,
+  .widget_product_categories .product-categories li.current-cat > .count,
+  .woodmart-woocommerce-layered-nav .layered-nav-link:hover + .count,
+  .woodmart-woocommerce-layered-nav .layered-nav-link:focus + .count,
+  .woodmart-woocommerce-layered-nav .chosen .count,
+  .widget_layered_nav ul li a:hover:before,
+  .widget_layered_nav ul .chosen a:before,
+  .woodmart-highlighted-products .elements-grid,
+  .woodmart-highlighted-products.vc_carousel_container,
+  .woocommerce-ordering select:focus,
+  .woodmart-products-tabs.tabs-design-simple .tabs-name,
+  .dokan-dashboard a.dokan-btn,
+  .dokan-dashboard button.dokan-btn,
+  .dokan-dashboard input[type="submit"].dokan-btn,
+  .dokan-dashboard a.dokan-btn:hover,
+  .dokan-dashboard a.dokan-btn:focus,
+  .dokan-dashboard button.dokan-btn:hover,
+  .dokan-dashboard button.dokan-btn:focus,
+  .dokan-dashboard input[type="submit"].dokan-btn:hover,
+  .dokan-dashboard input[type="submit"].dokan-btn:focus,
+  .dokan-dashboard-wrap .dokan-dash-sidebar ul.dokan-dashboard-menu li.active,
+  .dokan-dashboard-wrap
+    .dokan-dash-sidebar
+    ul.dokan-dashboard-menu
+    li.dokan-common-links
+    a:hover,
+  .dokan-dashboard-wrap .dokan-dash-sidebar ul.dokan-dashboard-menu li:hover {
+    border-color: #83b735;
+  }
+  .with-animation .info-svg-wrapper path {
+    stroke: #83b735;
+  }
+  .cart-actions .button[name="update_cart"]:hover,
+  .cart-actions .button[name="update_cart"]:focus,
+  .woodmart-switch-to-register:hover,
+  .woodmart-switch-to-register:focus,
+  .widget_shopping_cart .buttons .btn-cart:hover,
+  .widget_shopping_cart .buttons .btn-cart:focus,
+  .widget_price_filter .price_slider_amount .button:hover,
+  .widget_price_filter .price_slider_amount .button:focus,
+  .yith-woocompare-widget > a.compare:hover,
+  .yith-woocompare-widget > a.compare:focus,
+  .cart-totals-inner .shipping-calculator-form .button:hover,
+  .cart-totals-inner .shipping-calculator-form .button:focus,
+  #dokan-form-contact-seller.seller-form input.dokan-btn-theme:hover,
+  #dokan-form-contact-seller.seller-form input.dokan-btn-theme:focus,
+  .simplePopup .submit-report-abuse:hover,
+  .simplePopup .submit-report-abuse:focus,
+  .vendor_sort input[type="submit"]:hover,
+  .vendor_sort input[type="submit"]:focus,
+  .wcmp-quick-info-wrapper input[type="submit"]:hover,
+  .wcmp-quick-info-wrapper input[type="submit"]:focus {
+    background-color: #efefef;
+  }
+  .single_add_to_cart_button,
+  .widget_shopping_cart .buttons .checkout,
+  .cart-totals-inner .checkout-button,
+  .woodmart-hover-quick .woodmart-add-btn > a,
+  .woodmart-hover-standard .btn-add > a,
+  #place_order,
+  .return-to-shop .button,
+  .woodmart-hover-base:not(.product-in-carousel):not(.hover-width-small):not(.add-small-button)
+    .woodmart-add-btn
+    > a,
+  .register .button,
+  .login .button,
+  .lost_reset_password .button,
+  .woodmart-price-table .woodmart-plan-footer > a,
+  table.compare-list tr.add-to-cart td a,
+  .popup-added_to_cart .view-cart,
+  .woocommerce table.wishlist_table td.product-add-to-cart .add_to_cart,
+  .popup-quick-view .woodmart-scroll-content > a,
+  .product-list-item .woodmart-add-btn a,
+  .yith-woocompare-premium .compare-list .product_info .button,
+  .yith-woocompare-premium .compare-list .add-to-cart .button,
+  .yith-woocompare-premium .compare-list .added_to_cart,
+  #yith-woocompare-related .related-products .woocommerce > a,
+  .woodmart-sticky-btn .woodmart-sticky-add-to-cart {
+    background-color: #83b735;
+  }
+  .single_add_to_cart_button:hover,
+  .single_add_to_cart_button:focus,
+  .widget_shopping_cart .buttons .checkout:hover,
+  .widget_shopping_cart .buttons .checkout:focus,
+  .cart-totals-inner .checkout-button:hover,
+  .cart-totals-inner .checkout-button:focus,
+  .woodmart-hover-quick .woodmart-add-btn > a:hover,
+  .woodmart-hover-quick .woodmart-add-btn > a:focus,
+  .woodmart-hover-standard .btn-add > a:hover,
+  .woodmart-hover-standard .btn-add > a:focus,
+  #place_order:hover,
+  #place_order:focus,
+  .return-to-shop .button:hover,
+  .return-to-shop .button:focus,
+  .woodmart-hover-base:not(.product-in-carousel):not(.hover-width-small):not(.add-small-button)
+    .woodmart-add-btn
+    > a:hover,
+  .woodmart-hover-base:not(.product-in-carousel):not(.hover-width-small):not(.add-small-button)
+    .woodmart-add-btn
+    > a:focus,
+  .register .button:hover,
+  .register .button:focus,
+  .login .button:hover,
+  .login .button:focus,
+  .lost_reset_password .button:hover,
+  .lost_reset_password .button:focus,
+  .woodmart-price-table .woodmart-plan-footer > a:hover,
+  .woodmart-price-table .woodmart-plan-footer > a:focus,
+  table.compare-list tr.add-to-cart td a:hover,
+  table.compare-list tr.add-to-cart td a:focus,
+  .popup-added_to_cart .view-cart:hover,
+  .popup-added_to_cart .view-cart:focus,
+  .woocommerce table.wishlist_table td.product-add-to-cart .add_to_cart:hover,
+  .woocommerce table.wishlist_table td.product-add-to-cart .add_to_cart:focus,
+  .popup-quick-view .woodmart-scroll-content > a:hover,
+  .popup-quick-view .woodmart-scroll-content > a:focus,
+  .product-list-item .woodmart-add-btn a:hover,
+  .product-list-item .woodmart-add-btn a:focus,
+  .yith-woocompare-premium .compare-list .product_info .button:hover,
+  .yith-woocompare-premium .compare-list .product_info .button:focus,
+  .yith-woocompare-premium .compare-list .add-to-cart .button:hover,
+  .yith-woocompare-premium .compare-list .add-to-cart .button:focus,
+  .yith-woocompare-premium .compare-list .added_to_cart:hover,
+  .yith-woocompare-premium .compare-list .added_to_cart:focus,
+  #yith-woocompare-related .related-products .woocommerce > a:hover,
+  #yith-woocompare-related .related-products .woocommerce > a:focus,
+  .woodmart-sticky-btn .woodmart-sticky-add-to-cart :hover,
+  .woodmart-sticky-btn .woodmart-sticky-add-to-cart :focus {
+    background-color: #6ca300;
+  }
+  .cart-actions .button[name="apply_coupon"],
+  td.woocommerce-orders-table__cell-order-actions a,
+  .woocommerce-Button--next,
+  .woocommerce-Button--previous,
+  .comment-form .submit,
+  .mc4wp-form input[type="submit"],
+  .woocommerce input[name="save_account_details"],
+  .woocommerce input[name="save_address"],
+  .woocommerce input[name="track"],
+  .main-nav .item-level-0.callto-btn > a,
+  .checkout_coupon .button,
+  .cookies-buttons .cookies-accept-btn,
+  .post-password-form input[type="submit"],
+  #yith-wpv-abuse,
+  div.open-table-widget .otw-button-wrap .otw-submit,
+  div.open-table-widget .otw-button-wrap .otw-submit-btn,
+  .woocommerce-MyAccount-content > .button,
+  .account-payment-methods-table .button,
+  #dokan-seller-listing-wrap .dokan-btn,
+  .woocommerce-MyAccount-downloads-file,
+  .order-again .button,
+  div.wcmp_regi_main .button {
+    background-color: #83b735;
+  }
+  .cart-actions .button[name="apply_coupon"]:hover,
+  .cart-actions .button[name="apply_coupon"]:focus,
+  td.woocommerce-orders-table__cell-order-actions a:hover,
+  td.woocommerce-orders-table__cell-order-actions a:focus,
+  .woocommerce-Button--next:hover,
+  .woocommerce-Button--next:focus,
+  .woocommerce-Button--previous:hover,
+  .woocommerce-Button--previous:focus,
+  .comment-form .submit:hover,
+  .comment-form .submit:focus,
+  .mc4wp-form input[type="submit"]:hover,
+  .mc4wp-form input[type="submit"]:focus,
+  .woocommerce input[name="save_account_details"]:hover,
+  .woocommerce input[name="save_account_details"]:focus,
+  .woocommerce input[name="save_address"]:hover,
+  .woocommerce input[name="save_address"]:focus,
+  .woocommerce input[name="track"]:hover,
+  .woocommerce input[name="track"]:focus,
+  .main-nav .item-level-0.callto-btn > a:hover,
+  .main-nav .item-level-0.callto-btn > a:focus,
+  .checkout_coupon .button:hover,
+  .checkout_coupon .button:focus,
+  .cookies-buttons .cookies-accept-btn:hover,
+  .cookies-buttons .cookies-accept-btn:focus,
+  .post-password-form input[type="submit"]:hover,
+  .post-password-form input[type="submit"]:focus,
+  #yith-wpv-abuse:hover,
+  #yith-wpv-abuse:focus,
+  div.open-table-widget .otw-button-wrap .otw-submit:hover,
+  div.open-table-widget .otw-button-wrap .otw-submit:focus,
+  div.open-table-widget .otw-button-wrap .otw-submit-btn:hover,
+  div.open-table-widget .otw-button-wrap .otw-submit-btn:focus,
+  .woocommerce-MyAccount-content > .button:hover,
+  .woocommerce-MyAccount-content > .button:focus,
+  .account-payment-methods-table .button:hover,
+  .account-payment-methods-table .button:focus,
+  #dokan-seller-listing-wrap .dokan-btn:hover,
+  #dokan-seller-listing-wrap .dokan-btn:focus,
+  .woocommerce-MyAccount-downloads-file:hover,
+  .woocommerce-MyAccount-downloads-file:focus,
+  .order-again .button:hover,
+  .order-again .button:focus,
+  div.wcmp_regi_main .button:hover,
+  div.wcmp_regi_main .button:focus {
+    background-color: #6ca300;
+  }
+  .woodmart-promo-popup {
+    background-color: #111111;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left center;
+  }
+  .meta-post-categories>a:focus, .meta-post-categories>a:hover {
+    color: rgba(255,255,255,.8);
+}
+  

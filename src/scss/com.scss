@@ -1,0 +1,28 @@
+// set layout
+@mixin view_layout($width: 1192px) {
+  width: $width;
+  margin: auto;
+}
+
+// set font
+@mixin set_font($size: 16px, $color: #333333, $weight: Regular) {
+  font: {
+    size: $size;
+    weight: $weight;
+  }
+  color: $color;
+}
+
+// major theme color
+@mixin set_bg_color() {
+  background-color: rgb(17,159,60);
+}
+
+@mixin set_theme_color() {
+  color: rgb(17,159,60);
+}
+
+// two fonts
+@mixin set_font_family() {
+  font-family: "微软雅黑", "Microsoft YaHei UI", Verdana, Arial;
+}
